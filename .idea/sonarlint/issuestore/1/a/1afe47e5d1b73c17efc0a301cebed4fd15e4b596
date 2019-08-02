@@ -1,0 +1,11 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(†÷åì8ç¨…˜Å-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æªþ¦úÿÿÿÿ8Üö—Å-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(³‰‡Å8Ý¿ô—Å-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü“ŒÕ8¨˜Å-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬î†ûúÿÿÿÿ8¿®‰˜Å-
+Lsquid:S2140")Use "java.util.Random.nextInt()" instead.(áÄ§Æùÿÿÿÿ8Ý¿ô—Å-
